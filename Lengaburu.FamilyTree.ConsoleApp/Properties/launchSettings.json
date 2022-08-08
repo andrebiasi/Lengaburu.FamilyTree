@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lengaburu.FamilyTree.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Andre\\sample3.txt"
+    }
+  }
+}

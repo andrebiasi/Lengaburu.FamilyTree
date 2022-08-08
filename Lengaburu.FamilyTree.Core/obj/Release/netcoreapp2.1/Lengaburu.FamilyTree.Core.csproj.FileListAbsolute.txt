@@ -1,0 +1,9 @@
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/bin/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.deps.json
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/bin/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.dll
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/bin/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.pdb
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.csprojAssemblyReference.cache
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.csproj.CoreCompileInputs.cache
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.AssemblyInfoInputs.cache
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.AssemblyInfo.cs
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.dll
+/Users/andre.fernandes/training/Lengaburu.FamilyTree/Lengaburu.FamilyTree.Core/obj/Release/netcoreapp2.1/Lengaburu.FamilyTree.Core.pdb

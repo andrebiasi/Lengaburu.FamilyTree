@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>meet-the-family</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lengaburu.FamilyTree.Repositories\Lengaburu.FamilyTree.Repositories.csproj" />
+    <ProjectReference Include="..\Lengaburu.FamilyTree.Services\Lengaburu.FamilyTree.Services.csproj" />
+  </ItemGroup>
+
+</Project>
